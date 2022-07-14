@@ -6,7 +6,7 @@ export function Resume() {
       <h1>Resume</h1>
       <h3>
         <a
-          href="./assets/Nicol mouton programming resume June 2022.pdf"
+          href="/assets/Nicol-mouton-programming-resume-June-2022.pdf"
           target="blank"
         >
           Download my Resumé
