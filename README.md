@@ -12,17 +12,15 @@ Table of content
 
 [Technology](#technology)
 
-[Contribute](#contribute)
-
 [Questions](#questions)
 
 ## Deployed
 
-- See this application deployed on Heroku [here](https://persistent-note-taker.herokuapp.com/)
+- See this application deployed on Heroku [here](https://nicolmmm.github.io/react-portfolio/)
 
 ## Description
 
-- This note taking application is an offline-first Persistent Web Application. This application allows users to take notes and saves users' changes to a local database whenever the browser loses focus. This application will continue to work when a user loses internet connection.
+- This Portfolio was built using React.
 
 ## License
 
@@ -38,15 +36,9 @@ Table of content
 
 - The following technologies were used in this application
 
-* NodeJS
-* ExpressJS
-* IDB
-* Webpack
-* Babel
-
-## Contribute
-
-- Contribute to this project via pull requests or get in touch via email!
+* React
+* Javascript
+* Bootstrap
 
 ## Questions!
 
